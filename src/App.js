@@ -1,10 +1,10 @@
-import { Button, FilledCheck } from '@irimold/react-component';
+import { Button, FilledCalendar } from '@irimold/react-component';
 import "@irimold/react-component/dist/style.css"
 
 function App() {
     return (
         <Button
-            leftIcon={FilledCheck}
+            leftIcon={FilledCalendar}
         >
             Test
         </Button>
