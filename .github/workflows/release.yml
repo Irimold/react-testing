@@ -17,8 +17,6 @@ jobs:
           release-type: node
           target-branch: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          bump-minor-pre-major: true
-          bump-patch-for-minor-pre-major: true
       - name: Tag creation
         if: ${{ steps.release.outputs.release_created }}
         run: |
