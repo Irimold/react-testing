@@ -12,11 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Release with release-please
+        id: release
         uses: google-github-actions/release-please-action@v4
         with:
           release-type: node
           target-branch: ${{ github.ref_name }}
           token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
       - name: Tag creation
         if: ${{ steps.release.outputs.release_created }}
         run: |
