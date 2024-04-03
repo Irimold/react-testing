@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Irimold/react-testing/compare/v0.1.1...v0.1.2) (2024-04-03)
+
+
+### Bug Fixes
+
+* **Workflows:** tags not created ([ed1bb56](https://github.com/Irimold/react-testing/commit/ed1bb563a797370cdfbffd360234980a26fd3f5a))
+
 ## 0.1.1 (2024-04-03)
 
 
