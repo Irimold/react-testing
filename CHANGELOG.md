@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/Irimold/react-testing/compare/v0.1.3...v0.1.4) (2024-04-05)
+
+
+### Bug Fixes
+
+* **Workflows:** remove major minor tag creation ([59cca77](https://github.com/Irimold/react-testing/commit/59cca7708cb0c2e07d343a7074cfb1e0840cf0c8))
+
 ## [0.1.3](https://github.com/Irimold/react-testing/compare/v0.1.2...v0.1.3) (2024-04-05)
 
 
