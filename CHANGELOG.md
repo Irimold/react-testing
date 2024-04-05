@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.5](https://github.com/Irimold/react-testing/compare/v0.1.4...v0.1.5) (2024-04-05)
+
+
+### Bug Fixes
+
+* return manifest ([936f099](https://github.com/Irimold/react-testing/commit/936f099c63a82d53d37180505928f248a1c26d45))
+* Return package.json, but with empty version ([2534999](https://github.com/Irimold/react-testing/commit/253499914dc659d85fd0f1d446a71cc606b6c03d))
+* test no manifest ([0b54c23](https://github.com/Irimold/react-testing/commit/0b54c23e2d6bd0e9d2d4ceca3242a5f1de60cf23))
+* test remove package.json ([e4f3f38](https://github.com/Irimold/react-testing/commit/e4f3f38a3887583ff4e10f6e61a21dfcf7b9af9d))
+
 ## [0.1.4](https://github.com/Irimold/react-testing/compare/v0.1.3...v0.1.4) (2024-04-05)
 
 
