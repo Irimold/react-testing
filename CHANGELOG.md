@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/Irimold/react-testing/compare/v0.1.2...v0.1.3) (2024-04-05)
+
+
+### Bug Fixes
+
+* change page title ([1f01093](https://github.com/Irimold/react-testing/commit/1f0109365be6eb00c50b2facd24fec9be1e747c1))
+
 ## [0.1.2](https://github.com/Irimold/react-testing/compare/v0.1.1...v0.1.2) (2024-04-03)
 
 
